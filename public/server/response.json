@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Zakaj te Ljubim",
+    "description": "''Olivija, vedno boš moja mala punčka'' prikaže odraščajočo dekliškost skozi ljubeče očetove oči, od vožnje s kolesom do...",
+    "image": "/img/junak1.png",
+    "lottie": "/lottie/student.json"
+  },
+  {
+    "id": "2",
+    "title": "Očkova Zgodba",
+    "description": "S to knjigo, ki jo lahko v celoti personalizirate, boste navdušili ob kateri koli priložnosti, ki slavi ljubezen. Personalizirajte sebe...",
+    "image": "/img/junak2.png",
+    "lottie": "/lottie/welcome.json"
+  },
+  {
+    "id": "3",
+    "title": "Moj Mali Fantek",
+    "description": "Oh, zakaj tako hitro rasteš? A veš, vedno boš moj mali fantek! Knjiga, ki je najlepše presenečenje ob kateri koli priložnosti...",
+    "image": "/img/junak3.png",
+    "lottie": "/lottie/ecommerce.json"
+  },
+  {
+    "id": "4",
+    "title": "Družina Erjavec",
+    "description": "Očetovski dan bo tako ob prebiranju smešnih in odštekanih rim nepozaben, družinske vezi pa močne in edinstvene...",
+    "image": "/img/junak4.png",
+    "lottie": "/lottie/update.json"
+  }
+]

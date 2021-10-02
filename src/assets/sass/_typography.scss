@@ -1,0 +1,27 @@
+h1 {
+  grid-column: 1 / -1;
+
+  margin-bottom: 2rem;
+
+  line-height: 1.1;
+  font-weight: 700;
+  font-size: clamp(6.7rem, 5vw + 2.5rem, 10rem);
+
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0.025em 0.025em 0 yellow, 0.05em 0.05em 0 blue,
+    0.075em 0.075em 0 red, 0.1em 0.1em 0 black;
+
+  color: var(--clr-primary);
+}
+
+h3 {
+  line-height: 1.3;
+  font-weight: 700;
+  font-size: 2.8rem;
+  text-transform: capitalize;
+}
+
+p {
+  font-size: 1.7rem;
+}

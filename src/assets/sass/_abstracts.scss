@@ -1,0 +1,20 @@
+:root {
+  --clr-bg: hsl(280, 27%, 22%);
+
+  --clr-primary: hsl(309, 100%, 58%);
+  --clr-secondary: hsl(243, 90%, 66%);
+
+  --clr-grey-100: hsl(0, 0%, 94%);
+
+  --font-primary: 'Ubuntu', sans-serif;
+}
+
+$bp-small: 31.25em; // 500px
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == s {
+    @media only screen and (max-width: $bp-small) {
+      @content;
+    }
+  }
+}
