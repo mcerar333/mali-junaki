@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mali-junaki.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co/QCCzWHd/junak.png" alt="Mali Junak">
+    <img src="https://i.ibb.co/p1GD11V/junak.png" alt="Mali Junak">
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 
 ## Description
 
-🎈🎈 **Mali Junaki** card component redesign as part of Hooray Studios assessment.
+🎈🎈 **Mali Junaki** card component redesign as part of Hooray Studios assessment. 🎈🎈
 
 ## Tech
 

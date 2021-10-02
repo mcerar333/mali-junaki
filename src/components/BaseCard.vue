@@ -13,7 +13,7 @@
     </figure>
 
     <div class="card__content">
-      <h3>{{ cardInfo.title }}</h3>
+      <h2>{{ cardInfo.title }}</h2>
       <p>{{ cardInfo.description }}</p>
     </div>
 
