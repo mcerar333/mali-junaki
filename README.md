@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mali-junaki.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://malijunaki.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://i.ibb.co/p1GD11V/junak.png" alt="Mali Junak">
   </a>
 </p>
@@ -8,7 +8,7 @@
 
 ## Description
 
-🎈🎈 **Mali Junaki** card component redesign as part of Hooray Studios assessment. 🎈🎈
+🎈🎈 **Mali Junaki** card component redesign for Hooray Studios. 🎈🎈
 
 ## Tech
 
@@ -22,6 +22,6 @@ CI/CD & Hosting: [Netlify](https://www.netlify.com/)
 
 ---
 
-**Visit live site here: https://mali-junaki.netlify.app/**
+**Visit live site here: https://malijunaki.netlify.app/**
 
 ---
